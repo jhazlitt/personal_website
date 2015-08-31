@@ -1,0 +1,15 @@
+html,body {
+	background-image: url("forest_background.jpg");
+	background-size: 150%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#website_body {
+	background-color: #E5E0EC;
+	padding: 0px;
+	margin: auto;
+	width: 75%;
+	height: 100%;
+}
