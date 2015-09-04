@@ -33,4 +33,5 @@ body {
 
 #button_group {
 	margin: auto;
+	float: bottom;
 }
