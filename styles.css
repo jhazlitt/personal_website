@@ -28,6 +28,13 @@ a {
 	height: 100px;
 }
 
+#header_button {
+	background-color: gray;
+	height: 100px;
+	width: 100px;
+	margin: auto;
+}
+
 #website_body1 {
 	background-color: #99DDDD; 
 	height: 600px;
