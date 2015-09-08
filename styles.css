@@ -1,5 +1,6 @@
 body {
-	background-color: #33AAFF;
+/*	background-color: #33AAFF;*/
+	background-color: #66CCCC;
 }
 
 /* tr, td {
@@ -55,8 +56,17 @@ a {
 	margin: 30px;
 }
 
+#footer {
+	background-color: gray;
+	height: 100px;
+}
+
+#button_array {
+	margin: auto;
+}
+
 /* Buttons */
-#button1 {
+#profile_button {
 	color: white;
 	font-family: Arial;
 	font-size: 20px;
@@ -70,14 +80,77 @@ a {
 	margin: 20%;
 }
 
-#button1:hover {
+#profile_button:hover {
 	background-color: #333333;	
 }
 
-#footer {
-	background-color: gray;
+#profile_button:active {
+	background-color: #D3FFCE;
 }
-#button1:active {
+
+#resume_button {
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	border-radius: 50px;
+	background-color: #9DCBEB; 
+	margin: 20%;
+}
+
+#resume_button:hover {
+	background-color: #333333;	
+}
+
+#resume_button:active {
+	background-color: #D3FFCE;
+}
+
+#portfolio_button {
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	border-radius: 50px;
+	background-color: #9DCBEB; 
+	margin: 20%;
+}
+
+#portfolio_button:hover {
+	background-color: #333333;	
+}
+
+#portfolio_button:active {
+	background-color: #D3FFCE;
+}
+
+#contact_button {
+	color: white;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	border-radius: 50px;
+	background-color: #9DCBEB; 
+	margin: 20%;
+}
+
+#contact_button:hover {
+	background-color: #333333;	
+}
+
+#contact_button:active {
 	background-color: #D3FFCE;
 }
 
@@ -87,8 +160,4 @@ a {
 	background-color: white;
 	display: inline-block;
 	float: left;
-}
-
-#button_array {
-	margin: auto;
 }
