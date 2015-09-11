@@ -1,5 +1,4 @@
 body {
-/*	background-color: #33AAFF;*/
 	background-color: #66CCCC;
 }
 
@@ -48,12 +47,14 @@ a {
 	height: 600px;
 	width: 600px;
 	font-family: Arial;
+	padding-right: 20px;
+	text-align: justify;
 }
 
 #photo {
 	border-radius: 200px;
 	border: 5px solid white;
-	margin: 30px;
+	margin: 40px;
 }
 
 #footer {
