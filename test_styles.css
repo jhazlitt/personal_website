@@ -1,0 +1,26 @@
+tr {
+	margin: 0px;
+	padding: 0px;
+}
+
+td {
+	border: 2px solid red;
+}
+
+html, body {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+#test1 {
+	border: 2px solid black;
+	height: 100%;
+	width: 50%;
+	margin: auto;
+}
+
+#test_row {
+	height: 20%;
+}

@@ -2,7 +2,7 @@ body {
 	background-color: #66CCCC;
 }
 
-/* tr, td {
+ /*tr, td {
 	border: 2px solid black;
 }*/ 
 
@@ -28,15 +28,9 @@ a {
 	height: 100px;
 }
 
-#header_button {
-	background-color: gray;
-	height: 100px;
-	width: 100px;
-	margin: auto;
-}
-
 #website_body1 {
 	background-color: #99DDDD; 
+	text-align: center;
 	height: 600px;
 	width: 600px;
 	font-family: Arial;
