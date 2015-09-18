@@ -11,5 +11,5 @@ document.getElementById("portfolio_button").onclick = function() {
 }
 
 document.getElementById("contact_button").onclick = function() {
-	document.getElementById("website_body2").innerHTML = "<h1>Contact</h1><h3>Email: john.h.hazlitt@gmail.com</h3><h3>Phone: 720-979-5870</h3><h3>Skype: jhazlitt</h3>";
+	document.getElementById("website_body2").innerHTML = "<h1>Contact</h1><h3>Email: john.h.hazlitt@gmail.com</h3><h3>Phone: 720-979-5870</h3><h3>Skype: john.hazlitt</h3>";
 }
