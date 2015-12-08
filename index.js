@@ -7,7 +7,7 @@ document.getElementById("resume_button").onclick = function() {
 }
 
 document.getElementById("portfolio_button").onclick = function() {
-	document.getElementById("website_body2").innerHTML = "<h1>Portfolio</h1><a href='test_page.html'>test</a>";
+	document.getElementById("website_body2").innerHTML = "<h1>Portfolio</h1><a href='test_dir/test_page.html'>test</a>";
 }
 
 document.getElementById("contact_button").onclick = function() {
