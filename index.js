@@ -8,9 +8,9 @@ document.getElementById("resume_button").onclick = function() {
 
 document.getElementById("portfolio_button").onclick = function() {
 	document.getElementById("website_body2").innerHTML = "<h1>Portfolio</h1>" + 
-"<table id='project_table'><tr><td><img src='img/space_shooter_logo.png' id='project_logo'></img></td><td><h1>Space Shooter</h1><h3>A game similar to Asteroids.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" + 
-"<table id='project_table'><tr><td><img src='img/color_match_logo.png' id='project_logo'></img></td><td><h1>Color Match</h1><h3>A game where you match colored tiles.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" +
-"<table id='project_table'><tr><td><img src='img/ball_dodge_logo.png' id='project_logo'></img></td><td><h1>Ball Dodge</h1><h3>A game where you avoid moving obstacles.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>"; 
+"<table id='project_table'><tr><td><a href='space_creepers_game/space_creepers.html'><img src='img/space_shooter_logo.png' id='project_logo'></img></a></td><td><a href='space_creepers_game/space_creepers.html'><h1>Space Shooter</h1></a><h3>A game similar to Asteroids.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" + 
+"<table id='project_table'><tr><td><a href='color_match_game/color_match.html'><img src='img/color_match_logo.png' id='project_logo'></img></a></td><td><a href='color_match_game/color_match.html'><h1>Color Match</h1></a><h3>A game where you match colored tiles.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" +
+"<table id='project_table'><tr><td><a href='ball_dodge_game/ball_dodge.html'><img src='img/ball_dodge_logo.png' id='project_logo'></img></a></td><td><a href='ball_dodge_game/ball_dodge.html'><h1>Ball Dodge</h1></a><h3>A game where you avoid moving obstacles.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>"; 
 
 }
 
