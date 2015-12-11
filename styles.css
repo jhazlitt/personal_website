@@ -2,7 +2,7 @@ body {
 	background-color: #66CCCC;
 }
 
- /*tr, td {
+/*tr, td {
 	border: 2px solid black;
 }*/ 
 
@@ -155,4 +155,15 @@ a {
 	background-color: white;
 	display: inline-block;
 	float: left;
+}
+
+#project_table {
+	background-color: #DAE0E6;
+	padding: 10px;
+	margin: 20px;
+}
+
+#project_logo {
+	border-radius: 75px;
+	margin: 10px;
 }
