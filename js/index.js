@@ -10,8 +10,9 @@ document.getElementById("portfolio_button").onclick = function() {
 	document.getElementById("website_body2").innerHTML = "<h1>Portfolio</h1>" + 
 "<table id='project_table'><tr><td><a href='space_creepers_game/space_creepers.html'><img src='img/space_shooter_logo.png' id='project_logo'></img></a></td><td><a href='space_creepers_game/space_creepers.html'><h1>Space Shooter</h1></a><h3>A game similar to Asteroids.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" + 
 "<table id='project_table'><tr><td><a href='floppy_bird_game/floppy_bird.html'><img src='img/floppy_bird_logo.png' id='project_logo'></img></a></td><td><a href='floppy_bird_game/floppy_bird.html'><h1>Blocky Bird</h1></a><h3>A Flappy Bird clone.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" + 
+"<table id='project_table'><tr><td><a href='snake_game/snake.html'><img src='img/snake_logo.png' id='project_logo'></img></a></td><td><a href='snake_game/snake.html'><h1>Snake</h1></a><h3>A Snake clone.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" + 
 "<table id='project_table'><tr><td><a href='color_match_game/color_match.html'><img src='img/color_match_logo.png' id='project_logo'></img></a></td><td><a href='color_match_game/color_match.html'><h1>Color Match</h1></a><h3>A game where you match colored tiles.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>" +
-"<table id='project_table'><tr><td><a href='ball_dodge_game/ball_dodge.html'><img src='img/ball_dodge_logo.png' id='project_logo'></img></a></td><td><a href='ball_dodge_game/ball_dodge.html'><h1>Ball Dodge</h1></a><h3>A game where you avoid moving obstacles.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>"; 
+"<table id='project_table'><tr><td><a href='ball_dodge_game/ball_dodge.html'><img src='img/ball_dodge_logo.png' id='project_logo'></img></a></td><td><a href='ball_dodge_game/ball_dodge.html'><h1>Ball Dodge</h1></a><h3>My first (admittedly not great) attempt at a game with jQuery.  Made with HTML, CSS, JavaScript, and jQuery.</h3></td></tr>"; 
 
 }
 
